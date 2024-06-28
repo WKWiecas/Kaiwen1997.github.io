@@ -3,6 +3,5 @@
   
 
 
-- School Special Academic Scholarship, 2023.**(1%)**
-
-- First-Class Academic Scholarship, 2022.**(8%)**
+- "Outstanding Student" and recipient of multiple academic scholarships, 2019 – 2024.
+- National Scholarship, Chongqing University, 2015 – 2019.
