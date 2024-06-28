@@ -19,3 +19,5 @@ He obtained his Bachelor degree in [<u>Communication Engineering</u>](http://www
 Information Extraction, Knowledge Graph, Large Language Model
 
 
+#### Professional Services
+I served as a reviewer for some NLP conferences/journals such as ACL (2022, 2023), EMNLP (2022, 2023), and Knowledge-Based Systems (KBS).
