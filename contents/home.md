@@ -12,7 +12,7 @@ Kaiwen Wei is a postdoc researcher at [<u>College of Computer Science</u>](http:
 
 #### Education
 
-2024.07 - Present, Postdoc, Chongqing University, Natural Language Processing & Multi-modal Learning & Large Language Model.
+2024.07 - Present, Postdoc Researcher, Chongqing University, Natural Language Processing & Multi-modal Learning & Large Language Model.
 
 2019.09 - 2024.07, Ph.D., University of Chinese Academy of Sciences, Natural Language Processing.
 
