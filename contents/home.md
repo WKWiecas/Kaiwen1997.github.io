@@ -2,7 +2,7 @@
 
 #### Biography
 
-Kaiwen Wei is a postdoc researcher at [<u>College of Computer Science</u>](http://www.cs.cqu.edu.cn/) of [<u>Chongqing University</u>](https://english.cqu.edu.cn/). He got his Ph.D. degree at the  [<u>University of Chinese Academy of Sciences</u>](https://english.ucas.ac.cn/), and he is instructed by Professor [ZhiGuo](https://people.ucas.ac.cn/~guozhi) and [XianSun](https://people.ucas.ac.cn/~sunxian). He obtained his Bachelor degree in [<u>Communication Engineering</u>](http://www.ccee.cqu.edu.cn/NewEnglish/Home.htm) of [<u>Chongqing University</u>](https://english.cqu.edu.cn/).
+Kaiwen Wei is a postdoc researcher at [<u>College of Computer Science</u>](http://www.cs.cqu.edu.cn/) of [<u>Chongqing University</u>](https://english.cqu.edu.cn/), supervised by [<u>Jiang Zhong</u>](http://www.cs.cqu.edu.cn/info/1319/4139.htm). He got his Ph.D. degree at the  [<u>University of Chinese Academy of Sciences</u>](https://english.ucas.ac.cn/), and he is instructed by Professor [ZhiGuo](https://people.ucas.ac.cn/~guozhi) and [XianSun](https://people.ucas.ac.cn/~sunxian). He obtained his Bachelor degree in [<u>Communication Engineering</u>](http://www.ccee.cqu.edu.cn/NewEnglish/Home.htm) of [<u>Chongqing University</u>](https://english.cqu.edu.cn/).
 
 #### Contact
 
