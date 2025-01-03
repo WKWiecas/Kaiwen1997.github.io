@@ -1,3 +1,4 @@
+[Nov 2024]: One paper was accepted at ICASSP 2025. <br>
 [Oct 2024]: One paper was accepted at COLING 2025. <br>
 [Aug 2024]: One paper was accepted at TPAMI. <br>
 [Aug 2024]: One paper was accepted at NLPCC 2024. <br>
